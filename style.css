@@ -1,0 +1,10 @@
+.top100 {
+    margin-top: 100px;
+}
+.jumbotron.secret{
+    color: #FFF;
+    background-color: #B11313;
+}
+pre.secret {
+    color: #B11313;
+}

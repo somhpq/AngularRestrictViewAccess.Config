@@ -1,0 +1,35 @@
+{
+  "name": "AngularViewAccess",
+  "authors": [
+    "somhpq <som.hpq@gmail.com>"
+  ],
+  "description": "To restrict access to a view only from the authorized view(s)",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-filter": "^0.5.8",
+    "angular-ui-router": "^0.2.18",
+    "angular-sanitize": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "angular-ui": "^0.4.0",
+    "jquery": "^2.2.0",
+    "lodash": "^4.3.0"
+  },
+  "keywords": [
+    "angular",
+    "ui-router"
+  ]
+}
